@@ -2,8 +2,25 @@
   "maintainerName": "Rajandran R",
   "maintainerUsername": "marketcalls",
   "feedUrl": "https://medium.com/feed/@openalgo",
-  "lastFetched": "2026-08-30T23:45:56.643Z",
+  "lastFetched": "2026-09-06T23:03:45.330Z",
   "posts": [
+    {
+      "slug": "ai-couldnt-build-serious-software-then-coding-agents-arrived-9a9dff96f432",
+      "guid": "https://medium.com/p/9a9dff96f432",
+      "title": "AI Couldn’t Build Serious Software. Then Coding Agents Arrived",
+      "link": "https://openalgo.medium.com/ai-couldnt-build-serious-software-then-coding-agents-arrived-9a9dff96f432?source=rss-cda86e929c3------2",
+      "pubDate": "Wed, 02 Sep 2026 14:18:42 GMT",
+      "content": "<p>This is how early technology looks.</p><p>When we started building OpenAlgo around 2024, there were no coding agents in the way we understand them today.</p><figure><img alt=\"\" src=\"https://cdn-images-1.medium.com/max/1024/1*CQoAtUj1pF9XtpO0W_kUaw.png\" /></figure><p>We were mostly using ChatGPT.</p><p>Copy some code.</p><p>Paste it into ChatGPT.</p><p>Explain the problem.</p><p>Get some code back.</p><p>Paste it into the editor.</p><p>Run it.</p><p>Find the error.</p><p>Go back to ChatGPT.</p><p>Repeat.</p><p>At the time, a common reaction was:</p><p>“You can build small scripts with AI, but you cannot build large software.”</p><p>“AI-generated code will become impossible to maintain.”</p><p>“ChatGPT doesn’t understand the entire codebase.”</p><p>“You still need to write most of the serious code yourself.”</p><p>And they were right about one thing.</p><p>The technology was not ready yet.</p><p>Context windows were limited.</p><p>Models forgot earlier decisions.</p><p>Large refactoring was painful.</p><p>Debugging required constant human intervention.</p><p>There was no agent sitting inside your repository, reading files, running tests, executing commands, checking errors and iterating on its own.</p><p>But something important was already visible.</p><p>Potential.</p><p>For the first time, I could describe what I wanted to build in plain English and have AI help me turn that idea into working software.</p><p>It didn’t matter that I had to copy and paste code.</p><p>It didn’t matter that the model occasionally hallucinated functions.</p><p>It didn’t matter that I had to fix things manually.</p><p>The direction was obvious.</p><p>Then came coding agents.</p><p>Cursor.</p><p>Claude Code.</p><p>Codex.</p><p>And now we have tons of agent harnesses that can explore repositories, write code, run commands, execute tests, debug failures, refactor multiple files and keep iterating toward a goal.</p><p>The workflow itself has changed.</p><p>2024:</p><p>Human writes prompts.<br>AI writes snippets.<br>Human copies, integrates, tests and fixes.</p><p>2026:</p><p>Human defines intent, architecture and constraints.<br>Agents explore, implement, test, debug and iterate.<br>Humans increasingly review, steer and make engineering decisions.</p><p>That is a very different way of building software.</p><p>And I don’t think we are anywhere close to the end of this transition.</p><p>Today people still point at agent-generated code that is messy, inefficient or occasionally ridiculous and conclude:</p><p>“AI cannot build serious software.”</p><p>Maybe.</p><p>But that reminds me of looking at early AI-generated images with six fingers and concluding that machines would never generate realistic images.</p><p>The flaws are real.</p><p>But the trajectory matters more.</p><p>The interesting question isn’t:</p><p>“Can an AI agent build perfect production software today?”</p><p>The more interesting question is:</p><p>“If coding agents have progressed this much in just a couple of years, what will software development look like five years from now?”</p><p>OpenAlgo has given me a front-row seat to this transition.</p><p>We started with ChatGPT-assisted coding.</p><p>Then moved into agent-assisted development.</p><p>Now we are increasingly thinking about software development as orchestrating agents, tools, tests, skills, context and workflows.</p><p>The role of the developer is changing with it.</p><p>Less time may eventually be spent typing every line of code.</p><p>More time will be spent defining what should be built, designing systems, providing context, setting constraints, testing assumptions, reviewing outputs and coordinating agents.</p><p>This is how early technology looks.</p><p>Imperfect.</p><p>Flawed.</p><p>Sometimes ridiculous.</p><p>But full of possibilities for those curious enough to look beyond what it can do today and imagine what it is becoming.</p><img src=\"https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=9a9dff96f432\" width=\"1\" height=\"1\" alt=\"\">",
+      "contentSnippet": "",
+      "author": "Rajandran R (Creator - OpenAlgo)",
+      "tags": [
+        "agentic-ai",
+        "claude-code",
+        "coding-agents",
+        "chatgpt",
+        "software-development"
+      ]
+    },
     {
       "slug": "openalgo-charts-a-charting-engine-you-actually-own-24ff74ddd2b1",
       "guid": "https://medium.com/p/24ff74ddd2b1",
